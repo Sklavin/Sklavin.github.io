@@ -1,0 +1,75 @@
+{
+  "rdr2": {
+    "appid": 1174180,
+    "name": "Red Dead Redemption 2",
+    "screenshot": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.1920x1080.jpg?t=1759502961",
+    "local": "rdr2-wide.jpg"
+  },
+  "ready-or-not": {
+    "appid": 1144200,
+    "name": "Ready or Not",
+    "screenshot": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/88aec4ee3fba8860070370032495e0c9ff87a607/ss_88aec4ee3fba8860070370032495e0c9ff87a607.1920x1080.jpg?t=1790846188",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/library_600x900.jpg",
+    "local": "ready-or-not-cover.jpg"
+  },
+  "bf1": {
+    "appid": 1238840,
+    "name": "Battlefield™ 1",
+    "screenshot": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238840/ss_b914b0daf3c46d908d403bdec2881cf2b8d34915.1920x1080.jpg?t=1777324289",
+    "local": "bf1-shot.jpg"
+  },
+  "garrys-mod": {
+    "appid": 4000,
+    "name": "Garry's Mod",
+    "screenshot": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_af060d0a9aeb6598e154c9704ce250b0e63b2266.1920x1080.jpg?t=1776868682",
+    "local": "garrys-mod-shot.jpg"
+  },
+  "helldivers-2": {
+    "appid": 553850,
+    "name": "HELLDIVERS™ 2",
+    "screenshot": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/aed08979e15f54798f287dd8820fb5838476b5fa/ss_aed08979e15f54798f287dd8820fb5838476b5fa.1920x1080.jpg?t=1793395133",
+    "local": "helldivers-2-shot.jpg"
+  },
+  "arma-reforger": {
+    "appid": 1874880,
+    "name": "Arma Reforger",
+    "screenshot": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_70d3b4416f7c191d01b96253957bee9b6cab47be.1920x1080.jpg?t=1793882747",
+    "local": "arma-reforger-wide.jpg"
+  },
+  "warzone": {
+    "appid": 1962663,
+    "name": "Call of Duty®: Warzone™",
+    "screenshot": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962663/aa7f18ce70bd8bd790e09efd11ef4ec63083ed6d/ss_aa7f18ce70bd8bd790e09efd11ef4ec63083ed6d.1920x1080.jpg?t=1794350475",
+    "local": "warzone-wide.jpg"
+  },
+  "pubg": {
+    "appid": 578080,
+    "name": "PUBG: BATTLEGROUNDS",
+    "screenshot": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/c16e2f2d122cae77a1cbaca19263df0f2d2214fa/ss_c16e2f2d122cae77a1cbaca19263df0f2d2214fa.1920x1080.jpg?t=1792718193",
+    "local": "pubg-shot.jpg"
+  },
+  "cs2": {
+    "appid": 730,
+    "name": "Counter-Strike 2",
+    "screenshot": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0/ss_9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0.1920x1080.jpg?t=1793054556",
+    "local": "cs2-shot.jpg"
+  },
+  "arc-raiders": {
+    "appid": 1808500,
+    "name": "ARC Raiders",
+    "screenshot": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/1763664f3ea80080867eafa751685b7feec950c8/ss_1763664f3ea80080867eafa751685b7feec950c8.1920x1080.jpg?t=1794215815",
+    "local": "arc-raiders-shot.jpg"
+  },
+  "minecraft": {
+    "name": "Minecraft",
+    "wide": "https://store-images.s-microsoft.com/image/apps.17382.13510798887677013.afcc99fc-bdcc-4b9c-8261-4b2cd93b8845.49beb011-7271-4f15-a78b-422c511871e4",
+    "external": true,
+    "local": "minecraft-cover.jpg"
+  },
+  "fortnite": {
+    "name": "Fortnite",
+    "wide": "https://cdn2.unrealengine.com/fn-og-42-10-c1sx-ps-gameplayscreenshot-01-3840x2160-3840x2160-2bd7d490c90c.jpg",
+    "external": true,
+    "local": "fortnite-wide.jpg"
+  }
+}

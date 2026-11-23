@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ru" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Галерея — javops</title>
+    <meta
+      name="description"
+      content="Личная галерея Владислава (javops / javierping): фотографии, снятые без постановки."
+    />
+    <meta name="author" content="Владислав" />
+    <meta name="theme-color" content="#0a0b0d" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#f4f4f2" media="(prefers-color-scheme: light)" />
+    <meta name="color-scheme" content="dark light" />
+    <link rel="canonical" href="https://sklavin.github.io/gallery.html" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="ru_RU" />
+    <meta property="og:site_name" content="javops" />
+    <meta property="og:title" content="Галерея — javops" />
+    <meta property="og:description" content="Личные фотографии Владислава." />
+    <meta property="og:url" content="https://sklavin.github.io/gallery.html" />
+    <meta property="og:image" content="https://sklavin.github.io/og.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="javops — галерея" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Галерея — javops" />
+    <meta name="twitter:description" content="Личные фотографии Владислава." />
+    <meta name="twitter:image" content="https://sklavin.github.io/og.jpg" />
+
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="apple-touch-icon" href="./favicon.svg" />
+
+    <script>
+      (function () {
+        try {
+          var stored = localStorage.getItem('theme');
+          var light = window.matchMedia('(prefers-color-scheme: light)').matches;
+          var theme = stored === 'light' || stored === 'dark' ? stored : light ? 'light' : 'dark';
+          document.documentElement.dataset.theme = theme;
+          document.documentElement.style.colorScheme = theme;
+        } catch (e) {
+          /* no-op */
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/gallery.tsx"></script>
+  </body>
+</html>
