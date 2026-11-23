@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T18:55:07.166Z",
+  "updatedAt": "2026-11-23T19:58:37.134Z",
   "source": "steamcommunity.com",
   "profiles": {
     "javops": {
@@ -11,6 +11,15 @@
       "libraryCount": 23,
       "memberSince": "18 августа",
       "recent": [
+        {
+          "title": "Garry's Mod",
+          "appid": 4000,
+          "hours": 4.1,
+          "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_231x87.jpg?t=1776868682",
+          "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1776868682",
+          "lastPlayed": "23 ноября",
+          "lastPlayedISO": "2026-11-23"
+        },
         {
           "title": "Counter-Strike 2",
           "appid": 730,
@@ -28,24 +37,15 @@
           "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898290/header.jpg?t=1759330526",
           "lastPlayed": "20 ноября",
           "lastPlayedISO": "2026-11-20"
-        },
-        {
-          "title": "Human Fall Flat",
-          "appid": 477160,
-          "hours": 1.1,
-          "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/818d0be6795713f18b62d6a6a02740f7ede461d3/capsule_231x87_alt_assets_27.jpg?t=1793018738",
-          "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/9258286b309480a3ce438c07cb51fadf3ea2f1d1/header_alt_assets_27.jpg?t=1793018738",
-          "lastPlayed": "19 ноября",
-          "lastPlayedISO": "2026-11-19"
         }
       ],
       "library": {
-        "totalHours": 200.20000000000002,
+        "totalHours": 200.3,
         "appsWithTime": 58,
         "hoursByAppId": {
           "440": 0.1,
           "730": 5.8,
-          "4000": 4,
+          "4000": 4.1,
           "239140": 6.7,
           "243470": 0.5,
           "292000": 0.1,
@@ -153,11 +153,18 @@
           {
             "appid": 4000,
             "title": "Garry's Mod",
-            "hours": 4
+            "hours": 4.1
           }
         ]
       },
       "htmlRecent": [
+        {
+          "title": "Garry's Mod",
+          "appid": 4000,
+          "hours": 4.1,
+          "lastPlayed": "23 ноября",
+          "lastPlayedISO": "2026-11-23"
+        },
         {
           "title": "Counter-Strike 2",
           "appid": 730,
@@ -171,16 +178,9 @@
           "hours": 0.2,
           "lastPlayed": "20 ноября",
           "lastPlayedISO": "2026-11-20"
-        },
-        {
-          "title": "Human Fall Flat",
-          "appid": 477160,
-          "hours": 1.1,
-          "lastPlayed": "19 ноября",
-          "lastPlayedISO": "2026-11-19"
         }
       ],
-      "refreshAt": 1795460105543,
+      "refreshAt": 1795463916089,
       "networkDegraded": false
     },
     "javierping": {
@@ -632,7 +632,7 @@
           "lastPlayedISO": "2026-11-23"
         }
       ],
-      "refreshAt": 1795460105543,
+      "refreshAt": 1795463916089,
       "networkDegraded": false
     }
   }
