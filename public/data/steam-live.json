@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T18:54:30.144Z",
+  "updatedAt": "2026-11-24T19:58:47.618Z",
   "source": "steamcommunity.com",
   "profiles": {
     "javops": {
@@ -14,7 +14,7 @@
         {
           "title": "Porthole - Local Port Sharing",
           "appid": 4963920,
-          "hours": 0.5,
+          "hours": 0.8,
           "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963920/ce00a59a1cf8307b182aadaa126709449c02a988/capsule_231x87.jpg?t=1795036334",
           "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963920/ce84efea650deec876b695490b5ca8d095b92931/header.jpg?t=1795036334",
           "lastPlayed": "24 ноября",
@@ -40,7 +40,7 @@
         }
       ],
       "library": {
-        "totalHours": 201.8,
+        "totalHours": 202.10000000000002,
         "appsWithTime": 59,
         "hoursByAppId": {
           "440": 0.1,
@@ -101,7 +101,7 @@
           "4705510": 1.7,
           "4783780": 14,
           "4809930": 1.1,
-          "4963920": 0.5
+          "4963920": 0.8
         },
         "titleByAppId": {
           "730": "Counter-Strike 2",
@@ -163,7 +163,7 @@
         {
           "title": "Porthole - Local Port Sharing",
           "appid": 4963920,
-          "hours": 0.5,
+          "hours": 0.8,
           "lastPlayed": "24 ноября",
           "lastPlayedISO": "2026-11-24"
         },
@@ -182,7 +182,7 @@
           "lastPlayedISO": "2026-11-23"
         }
       ],
-      "refreshAt": 1795546467087,
+      "refreshAt": 1795550326627,
       "networkDegraded": false
     },
     "javierping": {
@@ -634,7 +634,7 @@
           "lastPlayedISO": "2026-11-23"
         }
       ],
-      "refreshAt": 1795546467087,
+      "refreshAt": 1795550326627,
       "networkDegraded": false
     }
   }
