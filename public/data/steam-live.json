@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T14:54:40.939Z",
+  "updatedAt": "2026-11-24T16:02:06.468Z",
   "source": "steamcommunity.com",
   "profiles": {
     "javops": {
@@ -12,12 +12,21 @@
       "memberSince": "18 августа",
       "recent": [
         {
+          "title": "Porthole - Local Port Sharing",
+          "appid": 4963920,
+          "hours": 0,
+          "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963920/ce00a59a1cf8307b182aadaa126709449c02a988/capsule_231x87.jpg?t=1795036334",
+          "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963920/ce84efea650deec876b695490b5ca8d095b92931/header.jpg?t=1795036334",
+          "lastPlayed": "сегодня",
+          "lastPlayedISO": "2026-11-24"
+        },
+        {
           "title": "Call of Duty®",
           "appid": 1938090,
           "hours": 28,
           "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/0ac3cc02398b9db61c8db4fef2e3e1b4b8b66e4b/capsule_231x87.jpg?t=1794591176",
           "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg?t=1794591176",
-          "lastPlayed": "сегодня",
+          "lastPlayed": "24 ноября",
           "lastPlayedISO": "2026-11-24"
         },
         {
@@ -26,15 +35,6 @@
           "hours": 4.1,
           "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_231x87.jpg?t=1776868682",
           "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1776868682",
-          "lastPlayed": "23 ноября",
-          "lastPlayedISO": "2026-11-23"
-        },
-        {
-          "title": "Counter-Strike 2",
-          "appid": 730,
-          "hours": 5.8,
-          "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_231x87.jpg?t=1793054556",
-          "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1793054556",
           "lastPlayed": "23 ноября",
           "lastPlayedISO": "2026-11-23"
         }
@@ -112,7 +112,8 @@
           "1938090": "Call of Duty®",
           "2073620": "Arena Breakout: Infinite",
           "3008130": "Dying Light: The Beast",
-          "4131730": "VHOLUME"
+          "4131730": "VHOLUME",
+          "4963920": "Porthole - Local Port Sharing"
         },
         "top": [
           {
@@ -159,10 +160,17 @@
       },
       "htmlRecent": [
         {
+          "title": "Porthole - Local Port Sharing",
+          "appid": 4963920,
+          "hours": 0,
+          "lastPlayed": "сегодня",
+          "lastPlayedISO": "2026-11-24"
+        },
+        {
           "title": "Call of Duty®",
           "appid": 1938090,
           "hours": 28,
-          "lastPlayed": "сегодня",
+          "lastPlayed": "24 ноября",
           "lastPlayedISO": "2026-11-24"
         },
         {
@@ -171,16 +179,9 @@
           "hours": 4.1,
           "lastPlayed": "23 ноября",
           "lastPlayedISO": "2026-11-23"
-        },
-        {
-          "title": "Counter-Strike 2",
-          "appid": 730,
-          "hours": 5.8,
-          "lastPlayed": "23 ноября",
-          "lastPlayedISO": "2026-11-23"
         }
       ],
-      "refreshAt": 1795532079754,
+      "refreshAt": 1795536125391,
       "networkDegraded": false
     },
     "javierping": {
@@ -632,7 +633,7 @@
           "lastPlayedISO": "2026-11-23"
         }
       ],
-      "refreshAt": 1795532079754,
+      "refreshAt": 1795536125391,
       "networkDegraded": false
     }
   }
