@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T16:02:06.468Z",
+  "updatedAt": "2026-11-24T17:50:38.402Z",
   "source": "steamcommunity.com",
   "profiles": {
     "javops": {
       "nickname": "Javops",
       "url": "https://steamcommunity.com/id/javops/",
-      "avatar": "https://avatars.fastly.steamstatic.com/bf00b41ee0de5f2168b3b36636f6c898d6c682c9_full.jpg",
+      "avatar": "https://avatars.akamai.steamstatic.com/bf00b41ee0de5f2168b3b36636f6c898d6c682c9_full.jpg",
       "privacy": "public",
       "level": 2,
       "libraryCount": 23,
@@ -14,10 +14,10 @@
         {
           "title": "Porthole - Local Port Sharing",
           "appid": 4963920,
-          "hours": 0,
+          "hours": 0.5,
           "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963920/ce00a59a1cf8307b182aadaa126709449c02a988/capsule_231x87.jpg?t=1795036334",
           "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963920/ce84efea650deec876b695490b5ca8d095b92931/header.jpg?t=1795036334",
-          "lastPlayed": "сегодня",
+          "lastPlayed": "24 ноября",
           "lastPlayedISO": "2026-11-24"
         },
         {
@@ -40,8 +40,8 @@
         }
       ],
       "library": {
-        "totalHours": 201.3,
-        "appsWithTime": 58,
+        "totalHours": 201.8,
+        "appsWithTime": 59,
         "hoursByAppId": {
           "440": 0.1,
           "730": 5.8,
@@ -100,7 +100,8 @@
           "4262460": 0.6,
           "4705510": 1.7,
           "4783780": 14,
-          "4809930": 1.1
+          "4809930": 1.1,
+          "4963920": 0.5
         },
         "titleByAppId": {
           "730": "Counter-Strike 2",
@@ -162,8 +163,8 @@
         {
           "title": "Porthole - Local Port Sharing",
           "appid": 4963920,
-          "hours": 0,
-          "lastPlayed": "сегодня",
+          "hours": 0.5,
+          "lastPlayed": "24 ноября",
           "lastPlayedISO": "2026-11-24"
         },
         {
@@ -181,13 +182,13 @@
           "lastPlayedISO": "2026-11-23"
         }
       ],
-      "refreshAt": 1795536125391,
+      "refreshAt": 1795542637305,
       "networkDegraded": false
     },
     "javierping": {
       "nickname": "Javierping",
       "url": "https://steamcommunity.com/id/javierping/",
-      "avatar": "https://avatars.fastly.steamstatic.com/3914e4f59641c86049cec1efc08618e69c8c8698_full.jpg",
+      "avatar": "https://avatars.akamai.steamstatic.com/3914e4f59641c86049cec1efc08618e69c8c8698_full.jpg",
       "privacy": "public",
       "level": 17,
       "libraryCount": 116,
@@ -633,7 +634,7 @@
           "lastPlayedISO": "2026-11-23"
         }
       ],
-      "refreshAt": 1795536125391,
+      "refreshAt": 1795542637305,
       "networkDegraded": false
     }
   }
