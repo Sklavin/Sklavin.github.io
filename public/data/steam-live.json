@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T22:51:06.868Z",
+  "updatedAt": "2026-11-25T23:46:58.455Z",
   "source": "steamcommunity.com",
   "profiles": {
     "javops": {
@@ -184,7 +184,7 @@
         }
       ],
       "refreshAt": 1795647065927,
-      "networkDegraded": false
+      "nextNetworkAt": 1795650458705
     },
     "javierping": {
       "nickname": "Javierping",
@@ -636,7 +636,7 @@
         }
       ],
       "refreshAt": 1795647065927,
-      "networkDegraded": false
+      "nextNetworkAt": 1795650458705
     }
   }
 }
