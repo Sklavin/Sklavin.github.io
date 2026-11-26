@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T22:53:15.560Z",
+  "updatedAt": "2026-11-26T23:52:01.599Z",
   "source": "steamcommunity.com",
   "profiles": {
     "javops": {
@@ -183,13 +183,13 @@
           "lastPlayedISO": "2026-11-24"
         }
       ],
-      "refreshAt": 1795733593788,
+      "refreshAt": 1795737120467,
       "networkDegraded": false
     },
     "javierping": {
       "nickname": "Javierping",
       "url": "https://steamcommunity.com/id/javierping/",
-      "avatar": "https://avatars.akamai.steamstatic.com/3914e4f59641c86049cec1efc08618e69c8c8698_full.jpg",
+      "avatar": "https://avatars.fastly.steamstatic.com/3914e4f59641c86049cec1efc08618e69c8c8698_full.jpg",
       "privacy": "public",
       "level": 17,
       "libraryCount": 116,
@@ -635,7 +635,7 @@
           "lastPlayedISO": "2026-11-23"
         }
       ],
-      "refreshAt": 1795733593788,
+      "refreshAt": 1795737120467,
       "networkDegraded": false
     }
   }
