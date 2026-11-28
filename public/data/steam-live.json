@@ -1,16 +1,25 @@
 {
-  "updatedAt": "2026-11-28T07:03:58.137Z",
+  "updatedAt": "2026-11-28T08:47:57.073Z",
   "source": "steamcommunity.com",
   "profiles": {
     "javops": {
       "nickname": "Javops",
       "url": "https://steamcommunity.com/id/javops/",
-      "avatar": "https://avatars.akamai.steamstatic.com/bf00b41ee0de5f2168b3b36636f6c898d6c682c9_full.jpg",
+      "avatar": "https://avatars.fastly.steamstatic.com/bf00b41ee0de5f2168b3b36636f6c898d6c682c9_full.jpg",
       "privacy": "public",
       "level": 2,
       "libraryCount": 23,
       "memberSince": "18 августа",
       "recent": [
+        {
+          "title": "Arma Reforger",
+          "appid": 1874880,
+          "hours": 41,
+          "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/capsule_231x87.jpg?t=1793882747",
+          "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/header.jpg?t=1793882747",
+          "lastPlayed": "28 ноября",
+          "lastPlayedISO": "2026-11-28"
+        },
         {
           "title": "Aimlabs",
           "appid": 714010,
@@ -28,19 +37,10 @@
           "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963920/ce84efea650deec876b695490b5ca8d095b92931/header.jpg?t=1795036334",
           "lastPlayed": "24 ноября",
           "lastPlayedISO": "2026-11-24"
-        },
-        {
-          "title": "Call of Duty®",
-          "appid": 1938090,
-          "hours": 28,
-          "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/0ac3cc02398b9db61c8db4fef2e3e1b4b8b66e4b/capsule_231x87.jpg?t=1794591176",
-          "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg?t=1794591176",
-          "lastPlayed": "24 ноября",
-          "lastPlayedISO": "2026-11-24"
         }
       ],
       "library": {
-        "totalHours": 202.10000000000002,
+        "totalHours": 203.10000000000002,
         "appsWithTime": 59,
         "hoursByAppId": {
           "440": 0.1,
@@ -72,7 +72,7 @@
           "1386040": 0,
           "1428100": 0.3,
           "1808500": 1.9,
-          "1874880": 40,
+          "1874880": 41,
           "1890860": 0.1,
           "1898290": 0.2,
           "1913370": 1.1,
@@ -126,7 +126,7 @@
           {
             "appid": 1874880,
             "title": "Arma Reforger",
-            "hours": 40
+            "hours": 41
           },
           {
             "appid": 3354750,
@@ -162,6 +162,13 @@
       },
       "htmlRecent": [
         {
+          "title": "Arma Reforger",
+          "appid": 1874880,
+          "hours": 41,
+          "lastPlayed": "28 ноября",
+          "lastPlayedISO": "2026-11-28"
+        },
+        {
           "title": "Aimlabs",
           "appid": 714010,
           "hours": 0,
@@ -174,22 +181,15 @@
           "hours": 0.8,
           "lastPlayed": "24 ноября",
           "lastPlayedISO": "2026-11-24"
-        },
-        {
-          "title": "Call of Duty®",
-          "appid": 1938090,
-          "hours": 28,
-          "lastPlayed": "24 ноября",
-          "lastPlayedISO": "2026-11-24"
         }
       ],
-      "refreshAt": 1795849437210,
+      "refreshAt": 1795855676390,
       "networkDegraded": false
     },
     "javierping": {
       "nickname": "Javierping",
       "url": "https://steamcommunity.com/id/javierping/",
-      "avatar": "https://avatars.akamai.steamstatic.com/3914e4f59641c86049cec1efc08618e69c8c8698_full.jpg",
+      "avatar": "https://avatars.fastly.steamstatic.com/3914e4f59641c86049cec1efc08618e69c8c8698_full.jpg",
       "privacy": "public",
       "level": 17,
       "libraryCount": 116,
@@ -635,7 +635,7 @@
           "lastPlayedISO": "2026-11-23"
         }
       ],
-      "refreshAt": 1795849437210,
+      "refreshAt": 1795855676390,
       "networkDegraded": false
     }
   }
