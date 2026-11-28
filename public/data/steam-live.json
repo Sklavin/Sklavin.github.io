@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T13:59:22.860Z",
+  "updatedAt": "2026-11-28T14:51:06.449Z",
   "source": "steamcommunity.com",
   "profiles": {
     "javops": {
@@ -183,7 +183,7 @@
           "lastPlayedISO": "2026-11-24"
         }
       ],
-      "refreshAt": 1795874362220,
+      "refreshAt": 1795877465500,
       "networkDegraded": false
     },
     "javierping": {
@@ -635,7 +635,7 @@
           "lastPlayedISO": "2026-11-23"
         }
       ],
-      "refreshAt": 1795874362220,
+      "refreshAt": 1795877465500,
       "networkDegraded": false
     }
   }
